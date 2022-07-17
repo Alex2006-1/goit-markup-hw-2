@@ -100,7 +100,6 @@ body {
 }
 
 .description {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     color: var(--second-text-color);
@@ -136,7 +135,6 @@ body {
 }
 
 .profession {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -196,7 +194,6 @@ body {
 }
 
 .direction {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
     color: var(--second-text-color);
