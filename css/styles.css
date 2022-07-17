@@ -8,8 +8,9 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-weight: 700;
     letter-spacing: 0.03em;
-    background-color: #E5E5E5;
+    background-color: #FFFFFF;
 }
 
 .list {
@@ -20,16 +21,11 @@ body {
     text-decoration: none;
 }
 
-
-
-/* START COMPONENTS */
-
-/* END COMPONENTS */
-
 /* Start Header */
+
+
 .logo-link {
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
     font-size: 26px;
     line-height: 1.29;
     color: var(--accent-color);
@@ -82,7 +78,7 @@ body {
 .modal-button:hover,
 .modal-button:focus {
     background: var(--accent-color);
-    font-weight: 700;
+    font-family: inherit;
     font-size: 16px;
     line-height: 1.88;
     letter-spacing: 0.06em;
@@ -95,8 +91,8 @@ body {
 /* End EFFECTIVE SOLUTIONS FOR YOUR BUSINESS */
 
 /*Start  Наши преимущества  */
+
 .advantages-list {
-    font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
     text-transform: uppercase;
@@ -113,8 +109,8 @@ body {
 /* End Наши преимущества */
 
 /* Start What we do */
+
 .work-end-team {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -125,7 +121,6 @@ body {
 
 /* Start Our Team */
 .work-end-team {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -153,7 +148,6 @@ body {
 /* Start Footer */
 .logo-link {
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
     font-size: 26px;
     line-height: 1.29;
     color: var(--accent-color);
@@ -180,6 +174,7 @@ body {
 /* Start PORTFOLIO PAGE */
 
 .portfolio-button {
+    font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -194,7 +189,6 @@ body {
 }
 
 .portfolio-list {
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
