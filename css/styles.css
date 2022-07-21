@@ -9,7 +9,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
-    color: #212121;
+    color: var(--first-text-color);
     letter-spacing: 0.03em;
     background-color: #FFFFFF;
 }
@@ -106,7 +106,6 @@ body {
 
 .description {
     font-size: 14px;
-    font-weight: 400;
     line-height: 1.71;
     color: var(--second-text-color);
 }
@@ -166,7 +165,6 @@ body {
 
 .adress {
     font-style: normal;
-    font-weight: 400;
     line-height: 1.71;
     color: var(--third-text-color);
 }
@@ -206,7 +204,6 @@ body {
 }
 
 .direction {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
     color: var(--second-text-color);
